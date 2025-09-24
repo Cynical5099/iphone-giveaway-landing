@@ -19,6 +19,11 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        "text-hero": "hsl(var(--text-hero))",
+        "text-muted": "hsl(var(--text-muted))",
+        "surface-elevated": "hsl(var(--surface-elevated))",
+        "trust-green": "hsl(var(--trust-green))",
+        "trust-blue": "hsl(var(--trust-blue))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
